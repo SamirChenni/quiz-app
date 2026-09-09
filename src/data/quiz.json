@@ -1,0 +1,152 @@
+[
+{
+"question": "Which animal uses its tail as a third hand for balance and climbing?",
+"choices": ["Kangaroo", "Monkey", "Squirrel", "Crocodile"],
+"answer": "Kangaroo"
+},
+{
+"question": "Which animal has three hearts?",
+"choices": ["Squid", "Octopus", "Crab", "Jellyfish"],
+"answer": "Octopus"
+},
+{
+"question": "Which animal has neither an internal nor an external skeleton?",
+"choices": ["Earthworm", "Jellyfish", "Octopus", "Sea urchin"],
+"answer": "Jellyfish"
+},
+{
+"question": "Which animal is a symbol of wisdom?",
+"choices": ["Crow", "Fox", "Owl", "Lion"],
+"answer": "Owl"
+},
+{
+"question": "What is the only animal with a fingerprint very similar to a human's?",
+"choices": ["Chimpanzee", "Koala", "Sloth", "Gorilla"],
+"answer": "Koala"
+},
+{
+"question": "What is the fastest bird in the world?",
+"choices": ["Eagle", "Peregrine falcon", "Golden eagle", "House sparrow"],
+"answer": "Peregrine falcon"
+},
+{
+"question": "Which animal can live without water for a longer period than a camel?",
+"choices": ["Rat", "Desert tortoise", "Kangaroo rat", "Hedgehog"],
+"answer": "Kangaroo rat"
+},
+{
+"question": "Which animal can see ultraviolet light?",
+"choices": ["Cat", "Bee", "Dog", "Falcon"],
+"answer": "Bee"
+},
+{
+"question": "Which animal changes its color when it gets angry?",
+"choices": ["Octopus", "Chameleon", "Lizard", "Frog"],
+"answer": "Chameleon"
+},
+{
+"question": "Which animal is known for never sleeping?",
+"choices": ["Dolphin", "Shark", "Blue whale", "Jellyfish"],
+"answer": "Shark"
+},
+{
+"question": "Which animal laughs if you tickle it?",
+"choices": ["Chimpanzee", "Rat", "Monkey", "Dolphin"],
+"answer": "Rat"
+},
+{
+"question": "Which animal is known for its strong memory?",
+"choices": ["Horse", "Elephant", "Dolphin", "Parrot"],
+"answer": "Elephant"
+},
+{
+"question": "Which animal swims against the current to reproduce?",
+"choices": ["Salmon", "Tuna", "Shark", "Whale"],
+"answer": "Salmon"
+},
+{
+"question": "Which animal does not have a stomach?",
+"choices": ["Pufferfish", "Catfish", "Starfish", "Jellyfish"],
+"answer": "Pufferfish"
+},
+{
+"question": "Which animal can swim while sleeping?",
+"choices": ["Seal", "Dolphin", "Penguin", "Whale"],
+"answer": "Dolphin"
+},
+{
+"question": "Which animal can live without its head for several days?",
+"choices": ["Cockroach", "Fly", "Spider", "Ant"],
+"answer": "Cockroach"
+},
+{
+"question": "Which animal produces light from its body?",
+"choices": ["Jellyfish", "Firefly", "Anglerfish", "Sea urchin"],
+"answer": "Firefly"
+},
+{
+"question": "Which animal climbs glass smoothly?",
+"choices": ["Ant", "Gecko", "Beetle", "Spider"],
+"answer": "Gecko"
+},
+{
+"question": "Which animal generates electricity?",
+"choices": ["Electric catfish", "Electric eel", "Venomous jellyfish", "Octopus"],
+"answer": "Electric eel"
+},
+{
+"question": "Which animal has the longest gestation period?",
+"choices": ["Blue whale", "Elephant", "Giraffe", "Rhinoceros"],
+"answer": "Elephant"
+},
+{
+"question": "Which animal laughs?",
+"choices": ["Rat", "Hyena", "Hyrax", "Chimpanzee"],
+"answer": "Rat"
+},
+{
+"question": "Which animal makes a croaking sound?",
+"choices": ["Bird", "Frog", "Cockroach", "Bat"],
+"answer": "Frog"
+},
+{
+"question": "Which animal has eight legs?",
+"choices": ["Scorpion", "Spider", "Crab", "Ant"],
+"answer": "Spider"
+},
+{
+"question": "Which mammal lays eggs?",
+"choices": ["Echidna", "Kangaroo", "Bat", "Sloth"],
+"answer": "Echidna"
+},
+{
+"question": "Which animal is used in some countries to detect landmines?",
+"choices": ["Dog", "Rat", "Cat", "Monkey"],
+"answer": "Rat"
+},
+{
+"question": "Which marine animal has a bell-shaped body?",
+"choices": ["Starfish", "Jellyfish", "Coral", "Sea cucumber"],
+"answer": "Jellyfish"
+},
+{
+"question": "Which animal has a black tongue?",
+"choices": ["Cow", "Giraffe", "Bear", "Lion"],
+"answer": "Giraffe"
+},
+{
+"question": "Which animal can smell with its feet?",
+"choices": ["Bee", "Butterfly", "Fly", "Ant"],
+"answer": "Butterfly"
+},
+{
+"question": "What is the baby of a horse called?",
+"choices": ["Foal", "Colt / Foal", "Calf", "Pony"],
+"answer": "Foal"
+},
+{
+"question": "What is the baby of a rabbit called?",
+"choices": ["Kit (or kitten)", "Cub", "Pup", "Bunny"],
+"answer": "Kit (or kitten)"
+}
+]
