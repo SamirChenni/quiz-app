@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
 
 *
 {
@@ -12,14 +13,16 @@ body
   font-family: 'Patrick Hand', cursive;
   background-color: #f5f5f5;
 }
-
-.start-screen , .quiz-screen
+ 
+.start-screen , .quiz-screen , .score-screen
 {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 90vh;
+  min-height: 95vh;
+  font-size: larger;
+  font-family: "Patrick Hand SC", cursive;
 }
 
 .btn-style
@@ -34,6 +37,7 @@ body
   cursor: pointer;
   border-radius: 5px;
   transition: background-color 0.3s ease;
+  width: 200px;
 }
 
 .btn-style:hover
@@ -41,11 +45,36 @@ body
   background-color: #7C3AED;
 }
 
+
+ 
 .basic-style
 { 
-  background-color: orange;
+  background-color: transparent;
   font-family: 'Luckiest Guy', cursive; 
-  color: white; 
+  color : black;
+  border: solid 2px #7C3AED;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-right: 50px;
+  font-size: 16pt;
+  cursor: pointer;
+  width: 300px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.basic-style:hover
+{
+  box-shadow: 0px 2px 8px 1px gray; 
+}
+
+
+
+
+.basic-style:active
+{ 
+  background-color: transparent;
+  box-shadow: 0 0 0 2px #6e3dc4; 
+  transform : scale(0.95);
 }
 
 .right-answer
@@ -77,6 +106,15 @@ body
 }
 
 
+.quiz-screen
+{
+  background-color: #E5E7EB;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  gap: 20px;  
+}
 
-
-
+p{
+  font-size: 25pt;
+}
